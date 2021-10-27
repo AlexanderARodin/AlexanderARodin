@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexanderARodin
 - 👀 I’m interested in Swift, Java, C++, Assembler
-- 🌱 I’m currently learning AVR Assembler & improving VIM experience
+- 🌱 I’m currently learning Swift.. again xD
 
 <!---
 - 💞️ I’m looking to collaborate on ...
