@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexanderARodin
-- 👀 I’m mostly interested in Swift, C++, Assembler. Also Linux&Co are my interest area.
+- 👀 I’m mostly interested in Swift, C/C++, Assembler. Also Linux&Co are my interest area.
 - 🌱 I’m currently deep diving in Linux.. again xD
 
 <!---
