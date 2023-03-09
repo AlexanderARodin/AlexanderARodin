@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexanderARodin
-- 👀 I’m mostly interested in Swift, C/C++, Assembler. Also Linux&Co are my interest area.
-- 🌱 I’m currently deep diving in Linux.. again xD
+- 👀 I’m mostly interested in Swift, Rust, Assembler. Basic/C/C++ is starting point.. as usual.
+- 🌱 I’m currently improving Rust skills.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
