@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexanderARodin
-- 👀 I’m mostly interested in Swift, Rust, Assembler. Basic/C/C++ is starting point.. as usual.
+- 👀 I’m mostly interested in Swift, Rust, Assembler. C/C++ was my starting point.
 - 🌱 Currently improving Rust skills.
 
 <!---
