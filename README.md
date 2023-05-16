@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @AlexanderARodin
-- 👀 I’m mostly interested in Swift, Rust, Assembler. C/C++ was my starting point.
+- 👋 Hi, I’m @Alexander.
+- 👀 I’m mostly interested in Rust, Swift and Assembler. Also I like Lua. C/C++ were my starting point languages.
 - 🌱 Currently improving Rust skills.
+- 💞️ I'm open for collaboration on projects based on Rust or Swift 
 
 <!---
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
 
